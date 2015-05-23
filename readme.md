@@ -22,6 +22,19 @@
       |3) Dificil (mayor cantidad de puntos, mayor velocidad),
       |4) Imposible (velocidad MAXIMA a todo momento, solo para valientes).
       
+  ---------------------------------
+  
+  Hasta la fecha se reportan los siguientes cambios:
+      
+      |A) ¿Por qué tan redondo es todo ahora? 
+              cambio de cuadrados a circulos (este detalle lo tomare en cuenta para luego permitirle al usuario que                 decida cuales quiere utilizar).
+      |B) Nuevos Efectos:
+          agregue una especie de "motion-blur" al juego, lo que lo hace algo mas agradable (es puramente cosmetico).
+      |C) ¡COLORES! si, la serpiente cambia constantemente de colores constantemente (igual que el punto A, tratare de       agregarle lograr que el usuario decida cual o cuales colores usar para su serpiente, igual que con la comida).
+      Por el momento solo estos cambios.
+      
+  ---------------------------------    
+      
       
       
     
