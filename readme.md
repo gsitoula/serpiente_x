@@ -30,8 +30,8 @@
               cambio de cuadrados a circulos (este detalle lo tomare en cuenta para luego permitirle al usuario que                 decida cuales quiere utilizar).
       |B) Nuevos Efectos:
           agregue una especie de "motion-blur" al juego, lo que lo hace algo mas agradable (es puramente cosmetico).
-      |C) ¡COLORES! si, la serpiente cambia constantemente de colores constantemente (igual que el punto A, tratare de       agregarle lograr que el usuario decida cual o cuales colores usar para su serpiente, igual que con la comida).
-      Por el momento solo estos cambios.
+      |C) ¡COLORES! Ahora la serpiente cambia de colores constantemente (igual que el punto A, intentaré que el usuario decida cual o cuales colores usar para su serpiente, igual que con la comida).
+      Por el momento solo se reporto estos cambios.
       
   ---------------------------------    
       
