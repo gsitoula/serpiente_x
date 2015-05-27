@@ -31,7 +31,7 @@
       |B) Nuevos Efectos:
           agregue una especie de "motion-blur" al juego, lo que lo hace algo mas agradable (es puramente cosmetico).
       |C) ¡COLORES! Ahora la serpiente cambia de colores constantemente (igual que el punto A, intentaré que el usuario decida cual o cuales colores usar para su serpiente, igual que con la comida).
-      Por el momento solo se reporto estos cambios.
+      Por el momento solo se trabajo en estos cambios.
       
   ---------------------------------    
       
